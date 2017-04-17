@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  encrypted_thing: MyString
+  encrypted_thing_iv: MyString
+
+two:
+  encrypted_thing: MyString
+  encrypted_thing_iv: MyString
